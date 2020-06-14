@@ -1,4 +1,4 @@
-from python:3.6-jesse
+from python:3.6-stretch
 
 workdir /opt
 add / /opt
