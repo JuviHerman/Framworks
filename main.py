@@ -1,5 +1,6 @@
-import sys
 
-rep = int(sys.argv[1])
+import os
+num = os.environ['num']
+rep = int(num)
 for i in range(rep):
     print(i, i**2)
