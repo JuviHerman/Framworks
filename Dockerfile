@@ -1,4 +1,4 @@
-from python:3.6-stretch
+from python:3.6-jesse
 
 workdir /docker_ex1_yuval_herman
 add / /docker_ex1_yuval_herman
