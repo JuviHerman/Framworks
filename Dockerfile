@@ -1,4 +1,4 @@
-from python3.6-jesse
+from python:3.6-jesse
 
 workdir /opt
 add / /opt
